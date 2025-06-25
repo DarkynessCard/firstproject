@@ -1,0 +1,1 @@
+string = "Python is fun"
